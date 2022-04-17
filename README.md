@@ -8,7 +8,7 @@ This project is a repository of open source marked temporal point process papers
 
 <a id="1">[1]</a> Du, 2016, [Recurrent Marked Temporal Point Processes: Embedding Event History to Vector](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf)
 
-<a id="2">[2]</a> J. Yan, 2019, [Recent advance in temporal point process: from machine learning perspective](http://thinklab.sjtu.edu.cn/src/pp survey.pdf)
+<a id="2">[2]</a> J. Yan, 2019, [Recent advance in temporal point process: from machine learning perspective](http://thinklab.sjtu.edu.cn/src/ppsurvey.pdf)
  
 
 ## Data Sets
