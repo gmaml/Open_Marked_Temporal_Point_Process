@@ -1,13 +1,13 @@
 # Open Marked Temporal Point Process
-This project is a repository of open source marked temporal point process datasets and models.   
+This project is a repository of open source marked temporal point process papers, datasets and models.   
 
 
 
 
-## Papers
+## Referencess
 
-- [Recurrent Marked Temporal Point Processes: Embedding Event History to Vector](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf)
-- 
+<a id="1">[1]</a> Du, 2016, [Recurrent Marked Temporal Point Processes: Embedding Event History to Vector](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf)
+ 
 
 
 ## Data Sets
