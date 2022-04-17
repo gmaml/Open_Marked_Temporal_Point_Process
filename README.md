@@ -1,2 +1,6 @@
-# Open_Marked_Temporal_Point_Process
-This project will rcreate a repository of open source marked temporal point process datasets and models 
+# Open Marked Temporal Point Process
+This project create a repository of open source marked temporal point process datasets and models 
+
+## Papers
+
+
