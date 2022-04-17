@@ -14,7 +14,8 @@ This project is a repository of open source marked temporal point process papers
 
 ## Other resources
 
-- [Tick](https://x-datainitiative.github.io/tick/modules/hawkes.html)   
+- [Tick](https://x-datainitiative.github.io/tick/modules/hawkes.html)  
+- [Neural Temporal Point Processes] (https://github.com/babylonhealth/neuralTPPs#papers) 
 
 
 
