@@ -1,5 +1,5 @@
 # Open Marked Temporal Point Processes
-This project is a repository of open source marked temporal point process papers, datasets and models.   
+This project is a repository of comprehensive open source marked temporal point process papers, datasets and models.   
 
 
 
